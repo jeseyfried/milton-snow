@@ -38,22 +38,33 @@ PAGE SETUP & CUSTOMIZATION
   --golden-clay-dark: #8b6f47;  /* Darker warm clay for headings */
   --amber: #f59e0b;        /* Bright amber */
 
+  /* Colors based on Raphael Begay photograph */
+  --bone: #E0D2BA;
+  --sand: #D7C6AE;
+  --sky-gray: #bcbdcf;
+  --charcoal: #31261E;
+  --slate: #5B4737;
+  --clay: #C6886C;
+  --clay-deep: #8C634E;
+  --juniper: #6B5C44;
+  --espresso-brown: #3A2A1A;
+
   /* ===== SEMANTIC COLOR SYSTEM ===== */
   /* Backgrounds */
-  --bg-page: var(--warm-white);
+  --bg-page: var(--espresso-brown);
   --bg-card: var(--warm-light);
   --bg-accent: var(--golden-wash);
   --bg-code: var(--sage-pale);
-  --bg-nav: var(--sage-deep);
+  --bg-nav: var(--golden-clay-dark);
 
   /* Text */
-  --text-body: var(--sage-dark);
-  --text-on-dark: var(--warm-white);
-  --text-muted: #666;
+  --text-body: var(--golden-clay);
+  --text-on-dark: var(--sky-gray);
+  --text-muted: var(--slate);
 
   /* Accents & Interactive */
   --accent-primary: var(--sage);
-  --accent-border: var(--golden-clay);
+  --accent-border: var(--charcoal);
   --interactive-hover: var(--amber);
 
   /* Status colors */
@@ -453,7 +464,7 @@ footer {
   color: var(--text-on-dark);
 
   /* Visual */
-  background-color: var(--sage);
+  background-color: var(--bg-nav);
   border-top: 2px solid var(--accent-border);
   padding: 0;
 }

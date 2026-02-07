@@ -1,226 +1,129 @@
 ---
-title: Xanthan enables public digital humanities work
-layout: xanthan
-date: 2026-01-01
-summary: A platform for digitally-engaged scholarship, teaching digital literacy, and sustainable public humanities.
-template_cards:
-  - title: "Personal Portfolio"
-    summary: "Showcase your research, teaching, and creative work. Professional sites for getting your ideas noticed. Comes with example pages (like about, cv, etc) that you can quickly edit."
-    thumbnail: "/assets/images/portfolio-screenshot.png"
-    link: "https://xanthan-web.github.io/portfolio-template/"
-  - title: "Class Project"
-    summary: "Collaborative archives gathering student work around a common theme. Build collectively, learn together. Comes with a basic card directory, map page, and sample essays to illustrate how to keep everything organized"
-    thumbnail: "/assets/images/class-project-screenshot.png"
-    link: "https://amaranth.unm.edu/campus-history/"
-  - title: "ScrollStory"
-    summary: Kinda like StoryMaps with immersive scrolling, background images, and design flexibility, but this one is non-proprietary and fundamentally collaborative.
-    thumbnail: "/assets/images/forest-scroll.gif"
-    link: "scrollstories/forest"
+title: A Visual Journey
+author: Jonathan Seyfried
+layout: scrollstory
+date: 2026-02-07
+thumbnail: /assets/images/seedling-card.png
+summary: A transformation of a wall-mounted museum exhibit into a dynamic webpage.
+header-image: /assets/images/milton-snow-header.jpg
+header-title:
+header-position: 0px
+geo: 
+placename: 
+toc-section: first
+tags:
+    - history
+    - campus
 ---
 
-{: .hero-section}
-# Reach Beyond the Academy
+# A Seedling Essay
+This essay demonstrates the **simplest ScrollStory approach**—perfect if you're just learning Markdown or want students to focus on writing rather than complex formatting. As you scroll through, notice the clean, uncluttered design that lets content breathe.
 
-{: .hero-tagline}
-Build open, sustainable, and collaborative humanities projects. Foreground humanities with technology. Showcase your work. Build digital fluency.
+**What makes this a "Seedling" essay?** It uses only basic components: section headings, images with captions, pull quotes, and footnotes. No background switching, no side-scrolling—just straightforward digital storytelling that's more visually engaging than a standard web page.
 
-{: .hero-cta}
-[Get Started →](docs/getting-started/){: .btn-primary}
-
----
-
-## What is Xanthan?
-
-Xanthan is a collection of ready-to-use website templates and extensive documentation designed for reseachers,educators, and students who want to showcase their work online and communicate to a wider audience. No installation, no coding required—just choose a template (which is really a handful of text files that make a website), customize it with your content. Built on simple, durable web technologies that will last decades. 
-
-{::nomarkdown}
-</div> <!-- close main container -->
-
-<div class="section-alt">
-  <div class="container">
-{:/nomarkdown}
+The text below is mostly filler to show how an essay flows, but we'll call out key features as you encounter them.
 
 
-
-## Who is it for?
-
-**Scholars seeking public engagement.** Move your work beyond paywalls and PDFs. Build digital projects that reach broader audiences—interactive arguments, multimedia essays, research portfolios that demonstrate impact beyond traditional publications.
-
-**Instructors teaching digital literacy.** Turn collaborative class projects into real public scholarship. Students build collectively around shared themes—local history archives, community documentation, thematic collections—learning web fundamentals while creating work that matters beyond the semester.
-
-**Students building professional presence.** Create portfolios that showcase your research, teaching, and digital skills. Own your academic identity with a site you control, not scattered across platforms that come and go.
-
-{::nomarkdown}
-  </div>
-</div>
-{:/nomarkdown}
-
-{::nomarkdown}
-<div class="container"> <!-- reopen main container -->
-{:/nomarkdown}
-
-
-## What Can You Build?
-
-Here are a few examples of what people have used Xanthan for:
-
-{% include nav/card-stack.html cards=page.template_cards %}
-
-Ready to start? Pick a template in the [Getting Started guide](docs/getting-started/) and you'll have a live site in 10 minutes---ready to customize.
-
-
-{::nomarkdown}
-</div> <!-- close main container -->
-
-<div class="section-alt">
-  <div class="container">
-{:/nomarkdown}
-
-## Why Xanthan?
-
-Digital public humanities work should be public in its process as its product. Xanthan counters the trend of enclosing scholarship within proprietary platforms and walled gardens. We embrace **minimal computing**: static sites built on durable web standards (HTML, CSS, Markdown) that cost almost nothing to host, require minimal maintenance, and are designed to last decades, not just grant cycles.
-
-{::nomarkdown}
-<div class="section-accent">
-{:/nomarkdown}
-
-##### You control your content
-Your site is text files in a repository you control—not locked in a proprietary platform. Move it to any web host. Take your site with you after graduation, between institutions, or to your own domain. It's yours.
-
-##### Built to last
-HTML, CSS, and Markdown are fundamental web technologies that will outlive any proprietary platform. What you build today will still work in 2050, with literally zero maintenance. Static sites have no databases to secure, no software to update, no security patches to apply. They just work.
-
-##### You learn digital fluency
-Markdown, GitHub, HTML, CSS---foundational skills that are essential for any digital cultural heritage work and standard across institutions. These capabilities form the foundation of digitally-engaged humanities work.
-
-
-##### It's free.
-GitHub Pages hosting costs $0/month. No ads. No "freemium" upsells. No bills when traffic increases or you use it a lot.
-
-
-##### Open for collaboration
-GitHub is an industry-standard collaboration tool. Students and colleagues can see how your site works, learn from your solutions, and build on your code. No expensive team plans for multi-user projects.
-
-{::nomarkdown}
-</div>
-{:/nomarkdown}
-
-{: .link-callout}
-[See more details in our FAQs →](faqs#why-not-use-wix-or-squarespace)
-
-{::nomarkdown}
-  </div> <!-- close container -->
-</div> <!-- close section-alt -->
-
-<div class="container"> <!-- reopen main container -->
-{:/nomarkdown}
-
-
-{% include images/jumbotron-gradient.html
-  image-path="/assets/images/scaffolding-hand.png"
-  fade-start="50%"
-  fade-end="100%"
-  title=""
-  text="
-
-## Scaffolded for AI Assistance
-
-Most humanists have faced a significant barrier to engaging with technology, because it takes a lot of time for an unclear payoff. Without a tech background, sometimes the learning curve is either too steep or too long (or both). **AI tools make it possible to experiment and learn with web technologies like never before.** 
-
-While digital humanists have debated the most versatile coding language to use, now it's clear: plain English. You just need an idea of how things should go together and that's what Xanthan provides. **You don't need a drag-and-drop admin interface anymore!** They are only going to slow you down and limit what you can do.
-
-**Xanthan provides the scaffolding that makes AI collaboration productive and trustworthy.** Our clean, well-documented templates give AI (and you) a known framework to work within.
-"
+## Your First Section Heading
+{% include images/figure.html
+class="right"
+width="48%"
+caption="This is a right-aligned image that takes up roughly half the page width. Notice how text wraps around it naturally. [Source](https://rmoa.unm.edu/docviewer.php?docId=nmu1unma028.xml)"
+image-path="/assets/images/mvh-history-stays.jpg"
 %}
 
-{: .two-columns}
-- "I created a new page but it's not showing up on my top nav bar." _(AI can update your top-nav file to list your new page and explain how it works)_
+This paragraph sits next to a **right-aligned image**. The ScrollStory layout gives images breathing room—you'll never see cramped text squished against a photo. The spacing and typography are designed to feel more like a magazine than a typical web page.
 
-- "I'm trying to make the font on the this page larger but it's not changing" _(AI will evalaute if you have properly loaded the font and referenced it in your code)_
+Notice the caption below the image includes a clickable source link. This is how you maintain scholarly rigor while keeping the visual design clean.[^1]
 
-- "I changed my font but now the lines are too close together. Help me increase the line spacing so it's not so cramped." _(AI will show you where in your CSS file to make a change)_
+[^1]: Footnotes work normally in ScrollStories. Click the number to jump to the note, then click the return arrow to come back. This keeps your main text flowing while providing space for citations and elaboration.
 
-- "I made a bunch of changes on my homepage and now my site isn't updating at all. Can you find the syntax error or tell me how to find it?" _(AI will show you where your error is and tell you how to get more details on the error for nex time.)_
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus pretium, nibh vel posuere pretium, neque ipsum maximus libero, ac maximus quam ante sit amet dolor. Integer pharetra semper sem sed sagittis. Curabitur mauris tortor, elementum non felis id, hendrerit efficitur metus.
 
-- "I really want to have a section on my page with a color background two columns of text. Create a new component that does that and explain how i can use it."
-
-- "My image carousel is not loading my images. Can you double check the code and if files are in the right place?" 
-
-{: .link-callout}
-[See our AI assistance guide →](docs/content-design/using-ai-assistance)
-
----
-
-## What You Learn (And Why It Matters)
-
-Xanthan isn't just about creating a website. Process matters as much as product. By working with Xanthan, you build digital fluency that can engage broad audiences:
-
-{::nomarkdown}
-<div class="section-accent">
-{:/nomarkdown}
-
-##### Design thinking for humanities storytelling
-How to keep readers curious and scrolling through your argument
+Sed efficitur leo in magna pretium, euismod malesuada risus interdum. Proin sed libero et enim pulvinar convallis non eget est. Sed ultrices dui vitae enim semper accumsan. Duis quis aliquam nulla.
 
 
-##### Open infrastructure for collaborative work
-Tools and workflows used by museums, archives, and cultural heritage projects
+## Section Headings Create Visual Breaks
+Each section heading (marked with `##` in Markdown) creates a clear visual break in your essay. This helps readers navigate long-form content and gives you natural places to shift topics or introduce new ideas.
+
+**Why this matters for students:** Breaking essays into clear sections makes writing more manageable. Write one section at a time, preview it, then move to the next. No need to tackle the entire essay at once.
+
+Praesent sed vehicula velit, vel hendrerit neque. Vivamus scelerisque sed nunc nec congue. Curabitur sapien risus, finibus id tincidunt iaculis, porta et ipsum. Cras eu mollis sapien. Sed a mauris finibus orci molestie mollis.
 
 
-##### Working productively with AI
-Prompting, evaluating suggestions, iterating on digital projects
+## Pull Quotes Add Emphasis
+Pellentesque viverra hendrerit sapien eu consequat. Curabitur leo ante, vestibulum a tincidunt eget, placerat eu nunc. Donec ut sem mi. Vivamus commodo nec sem eget pretium. Nulla ullamcorper volutpat venenatis.
+
+{% include typography/aside.html class="right" text="
+This is a pull quote—a design element that highlights important text or quotations. It appears as a semi-transparent box to the right of your main text. Use these sparingly for maximum impact." %}
+
+The pull quote you just saw is created with a simple `include` command in Markdown. It's one of many reusable components in Xanthan. You can put important quotes, key statistics, or memorable phrases in these boxes to create visual interest and emphasize crucial points.
+
+Duis eros odio, fringilla et pulvinar vitae, eleifend quis elit. Sed eleifend lectus in bibendum elementum. Vivamus ut velit dignissim, cursus libero nec, commodo orci. Morbi lacus metus, posuere ut pretium ac, malesuada id ligula. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed consequat, lacus id blandit ornare, mi nisi rutrum ante, vitae dignissim mauris nisl mattis nisl.
 
 
-##### Assembling components into coherent projects
-Understanding how digital projects fit together
+### Subsection Headings (Optional)
+If you need more structure within a section, use subsection headings (marked with `###`). These are slightly smaller than main section headings and help organize complex topics without breaking up the flow too much.
+
+**Most student essays won't need subsections**—stick with main sections (`##`) unless you're writing something particularly detailed. Simpler is usually better.
+
+Duis ut dui dolor. Integer eu lectus at tellus accumsan euismod eget a ligula. Morbi venenatis, elit eu varius fermentum, ligula est dictum massa, sit amet ullamcorper augue nisl ut nunc. Integer placerat vitae metus vitae faucibus.
 
 
-##### Web fundamentals
-How content is structured (Markdown, HTML) and styled (CSS)
+## Images Can Be Different Widths
+{% include images/figure.html class="right" width="60%" caption="This image is set to 60% width instead of 48%, giving it more prominence. You can adjust image widths to suit your content. [Source](https://rmoa.unm.edu/docviewer.php?docId=nmu1unma028.xml)" image-path="/assets/images/mvh-floorplan.jpg" %}
 
-{::nomarkdown}
-</div>
-{:/nomarkdown}
+The image to the right is **wider than the previous one** (60% instead of 48%). You control this with the `width` parameter in the image code. Want a small image? Use 30%. Want something that dominates? Try 70%.
 
+Images can also be left-aligned (use `class="left"`) or centered full-width (we'll show that in more advanced essays). For Seedling level, right-aligned images at 48-60% width work well for most purposes.
 
-These aren't "website skills." They're how humanities projects need to be visible in a digital world. Whether you're building a research project, teaching a course, assembling a digital exhibit, or creating a professional portfolio, these capabilities form the foundation of digitally-engaged work.
-
+Duis vehicula erat et diam pharetra iaculis. Etiam rutrum scelerisque nunc, ut interdum justo pellentesque sit amet. Vivamus cursus massa mauris, a finibus felis laoreet quis. Integer vel molestie neque.
 
 
-{% include typography/alert.html
-  title="Learning by Breaking and Fixing"
-  text="Xanthan is designed to be experimented with. Try layouts. Test color schemes. Break the CSS. Git version control means you can always restore what worked. The risk of experimentation is low; the learning is real."
-  class="info"
-%}
+## The Rhythm of a ScrollStory
+By now you've scrolled through several sections and noticed the **rhythm** of a ScrollStory: heading, text, image, text, pull quote, text. This creates a visual cadence that keeps readers engaged without overwhelming them.
+
+**For your own essay:** Think about pacing. Where do readers need a visual break? Where should an image reinforce your argument? When does a pull quote emphasize a key point? These decisions make the difference between a wall of text and an engaging narrative.
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus pretium, nibh vel posuere pretium, neque ipsum maximus libero, ac maximus quam ante sit amet dolor. Integer pharetra semper sem sed sagittis. Aliquam in sapien mauris. Aliquam erat volutpat.
+
+Nunc congue ultrices lacus, a efficitur massa pulvinar at. Sed luctus orci sed sem commodo, in rhoncus orci sagittis. Duis in sagittis arcu. Donec dictum aliquam congue. Nulla varius ipsum vitae nibh dapibus, et tincidunt turpis gravida.
 
 
+## Block Quotes for Extended Quotations
+Sed efficitur leo in magna pretium, euismod malesuada risus interdum. Proin sed libero et enim pulvinar convallis non eget est. Sed ultrices dui vitae enim semper accumsan. Duis quis aliquam nulla. Aenean scelerisque lacus vel pretium viverra.
 
-{::nomarkdown}
-<div class="section-warm">
-  <div class="container">
-{:/nomarkdown}
+> This is a block quote, created by putting a `>` symbol before your text. Use these for extended quotations from primary sources, scholarly works, or historical documents. They're visually distinct from pull quotes—block quotes span the full text width, while pull quotes float to the side.
 
-<h2 style="color: var(--amber);">Yes, it's like the gum.</h2>
-Xanthan gum is a polysaccharide used as a binder and emulsifier—it transforms disparate ingredients into something greater than the sum of their parts. **It brings things together and keeps them stable.**
-
-Similarly, this platform binds simple, durable web technologies into a stable framework for digital scholarship. It lets you mix text, media, code, and argument into a cohesive whole with a long shelf life. Good infrastructure should be reliable, maintainable, and built to last.
-
-Read more about [our philosophy of openness](about).
-
-{::nomarkdown}
-  </div>
-</div>
-{:/nomarkdown}
+Block quotes work well when you want to quote an entire paragraph or passage, while pull quotes are better for short, punchy excerpts you want to highlight visually.
 
 
-<div style="display: flex; align-items: center; gap: var(--spacing-xl); margin: 3em 0;">
-  <div style="flex: 1;">
-    <h3>Ready to build and learn?</h3>
-    <p style="color: var(--text-muted);">
-      Start with the Getting Started guide. Deploy a template in 10 minutes. Customize it with copy-paste examples. Get unstuck with AI when you need help. Build digital literacy while creating real scholarship.
-    </p>
-  </div>
-  <div style="flex: 0 0 auto;">
-    <a href="docs/getting-started/" class="btn-primary">Let's Go! →</a>
-  </div>
-</div>
+## What You've Learned So Far
+If you can create this Seedling essay, you can:
+- Structure content with section headings
+- Add images with captions and source links
+- Include footnotes for citations
+- Use pull quotes for emphasis
+- Format block quotes for extended quotations
+- Control image sizes and placement
+
+**That's enough to create compelling digital scholarship.** The Sapling and Forest essays add more sophisticated features, but this foundation works for most student projects and many professional ones too.
+
+Duis eros odio, fringilla et pulvinar vitae, eleifend quis elit. Sed eleifend lectus in bibendum elementum. Vivamus ut velit dignissim, cursus libero nec, commodo orci. Morbi lacus metus, posuere ut pretium ac, malesuada id ligula.
+
+
+## Ready to Create Your Own?
+
+**New to Xanthan?** Start with the [Getting Started guide](../../../docs/getting-started/) to create your own site first. Once you have a working site, come back here to build your ScrollStory.
+
+**Already have a site based on a Xanthan template?** To make your own Seedling essay:
+
+1. **Duplicate this folder** (`scrollstories/seedling/`) and rename it for your topic
+2. **Replace the text** with your own content, keeping the same structure
+3. **Add your own images** to the `images/` folder
+4. **Update the header** at the top (title, author, date, etc.)
+5. **Preview and adjust** spacing, image sizes, and flow
+
+Start simple. Get comfortable with the basics. You can always add complexity later by copying and pasting elements from the other essays.
+
+{% include scrollybox/auto-scroll.html speed=1.5 %}

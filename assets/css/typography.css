@@ -24,25 +24,25 @@ h1, h2, h3, h4, h5 {
 
 /* Heading color hierarchy - variety with restraint */
 h1 {
-  color: var(--golden-clay);  /* Warm accent for top-level emphasis */
+  color: var(--sky-gray);  /* Warm accent for top-level emphasis */
   font-weight: 700;           /* Bolder for more presence */
 }
 
 h2 {
-  color: var(--sage);         /* Mid-tone sage - softer contrast */
+  color: var(--sky-gray);         /* Mid-tone sage - softer contrast */
   font-weight: 600;
 }
 
 h3 {
-  color: var(--sage-deep);    /* Deep sage for subsections */
+  color: var(--sky-gray);    /* Deep sage for subsections */
 }
 
 h4 {
-  color: var(--sage-dark);    /* Darker for minor headings */
+  color: var(--sky-gray);    /* Darker for minor headings */
 }
 
 h5 {
-  color: var(--golden-clay-dark);  /* Darker warm clay for emphasis */
+  color: var(--sky-gray);  /* Darker warm clay for emphasis */
 }
 
 h6 {
