@@ -166,14 +166,6 @@ captions = captions
 
 
 
-
-
-
-<br style="clear: both">
-<br style="clear: both">
-<br style="clear: both">
-<br style="clear: both">
-
 {% 
 include scrollybox/bg.html
 above-box-space="50vh"
