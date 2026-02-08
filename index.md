@@ -17,39 +17,33 @@ tags:
 ---
 
 # A Photographic Laboratory
+## Milton Snow (1905-1986)
 {% include images/figure.html
-class="right"
+class="left"
 width="25%"
 alt-text="A portrait of Milton Snow"
 caption="Portrait of Milton Snow (Window Rock), by Avery Edwin Field. [Source: Maxwell Museum of Anthropology, courtesy of the Museum of Northern Arizona, MS315-106-3.](https://maxwellmuseum.unm.edu/)"
 image-path="/assets/images/milton-snow-himself.jpg"
 %}
 
-## Milton Snow (1905-1986)
-
 Milton 'Jack' Snow was born in Ensley, Alabama on April 9, 1905, to Maude May Acuff and Joseph Willis Snow. After his family moved to southern California when he was a child, Snow attended Riverside Polytechnic High School where he was introduced
 to photography. Snow had a speech impediment alongside difficulty with activities requiring fine motor control. 
 
-<br style="clear: both">
+
 
 {%
 include typography/aside.html
-class="left"
-width="40%"
+class="right"
+width="60%"
 text="His older sister reported that Snow '...was a demon for self-discipline: shaved with a straight razor in the dark to develop control. Honestly ... (my brother) was a perfectionist.'"
 %}
-
 <br style="clear: both">
 <br style="clear: both">
-<br style="clear: both">
-<br style="clear: both">
-
 Snow's dedication to honing his skills with a camera eventually led him to work for the Van Bergen-Los Angeles County Museum where he photographed archeological excavations. Over the course of twenty years, from 1937 to 1957, Snow produced thousands of images of Diné people, homes, and landscapes. 
 
 <br style="clear: both">
 <br style="clear: both">
-<br style="clear: both">
-<br style="clear: both">
+
 
 {::nomarkdown}
 </div> <!-- close main container -->
@@ -66,7 +60,7 @@ caption="A portrait of Big Belly's nephew and Dannie Bia with old-style saddle. 
 image-path="/assets/images/big-belly-nephew-dannie-bia-2.jpg"
 %}
 
-**All were intended to provide proof that federal technologies were in fact working to "rehabilitate" Navajo lands and lives. Instead, Snow's photographs demonstrate the aftermath of the immense harm inflicted on Dine communities during this period.**
+**All were intended to provide proof that federal technologies were in fact working to "rehabilitate" Navajo lands and lives. Instead, Snow's photographs demonstrate the aftermath of the immense harm inflicted on Diné communities during this period.**
 
 
 
@@ -174,7 +168,7 @@ height="200vh"
 image-path="/assets/images/oraibi-2.jpg"  
 box-content=" 
 ### Civil Works Administration Project
-In 1934, Snow was hired to work on the Civil Works Administration Project at Wupatki National Monument in Arizona as the photographer and special excavation expert. He then joined the Museum of Northern Arizona in Flagstaff to establish a photographic laboratory. While working in Gallup, New Mexico with the federal Soil Conservation Service in 1935 and 1936, Snow was hired by the Navajo Service to document the supposed improvements to life in Dine Bikeyah following livestock reduction."
+In 1934, Snow was hired to work on the Civil Works Administration Project at Wupatki National Monument in Arizona as the photographer and special excavation expert. He then joined the Museum of Northern Arizona in Flagstaff to establish a photographic laboratory. While working in Gallup, New Mexico with the federal Soil Conservation Service in 1935 and 1936, Snow was hired by the Navajo Service to document the supposed improvements to life in Diné Bikeyah following livestock reduction."
 %}
 
 <br style="clear: both">
@@ -186,10 +180,14 @@ In 1934, Snow was hired to work on the Civil Works Administration Project at Wup
 <br style="clear: both">
 <br style="clear: both">
 <br style="clear: both">
+<br style="clear: both">
+<br style="clear: both">
+<br style="clear: both">
+<br style="clear: both">
 
 # Portraits of a Community: K'é (Kinship)
 
-Milton Snow's photographs are unique for the era in which they were made because they suggest that he had positive relationships with his subjects. While we don't know much about what Snow thought of his Diné subjects, it's often remarked that he appeared to be accepted by Dine and that he took photographs in an ethical and responsible manner. 
+Milton Snow's photographs are unique for the era in which they were made because they suggest that he had positive relationships with his subjects. While we don't know much about what Snow thought of his Diné subjects, it's often remarked that he appeared to be accepted by Diné and that he took photographs in an ethical and responsible manner. 
 
 <br style="clear: both">
 <br style="clear: both">
@@ -229,10 +227,18 @@ below-box-space="50vh"
 height="200vh"
 image-path="/assets/images/drying-scrollybox-ah-tso-lige.jpg"  
 box-content=" 
-And we are reminded that the foundation of Dine life, despite and against John Collier's plans to remake Diné into images of American citizens, is the concept of K'é, relationships of how we treat each other with respect, love, and compassion. K'é, as the foundation of the Navajo Nation, extends to Mother Earth and Father Sky and to all beings. K'é endures and we extend kinship and remember through visual images such as Snow's."
+And we are reminded that the foundation of Diné life, despite and against John Collier's plans to remake Diné into images of American citizens, is the concept of K'é, relationships of how we treat each other with respect, love, and compassion. K'é, as the foundation of the Navajo Nation, extends to Mother Earth and Father Sky and to all beings. K'é endures and we extend kinship and remember through visual images such as Snow's."
 %}
 
+<br style="clear: both">
+<br style="clear: both">
+
 ## Moments in Diné Bikéyah:
+
+<br style="clear: both">
+<br style="clear: both">
+<br style="clear: both">
+<br style="clear: both">
 
 # Landscape, Community, and Home
 
@@ -243,6 +249,10 @@ Place-making is an active cultural and political activity-landscapes both hold
 and generate identities, memories, stories, histories, and knowledge systems. Diné
 Bikeyah, the land between the four sacred mountains, is the foundation of Diné life and teachings.
 
+<br style="clear: both">
+<br style="clear: both">
+<br style="clear: both">
+<br style="clear: both">
 
 {% include scrollybox/bg-multi-long.html
   bg-id="bg1"
@@ -366,9 +376,13 @@ Livestock organized life. Extended kin networks followed sheep to grazing pastur
 <br>
 <br>
 <br>
+<br>
+<br>
 
 ### With the Treaty of 1868 signed, the People came home to a much-reduced land base. Despite this, they returned to their former home places, including those beyond the designated treaty land boundaries, and once again took up livestock raising.
 
+<br>
+<br>
 <br>
 <br>
 <br>
@@ -377,9 +391,6 @@ Livestock organized life. Extended kin networks followed sheep to grazing pastur
 "
 %}
 
-<br style="clear: both">
-<br style="clear: both">
-<br style="clear: both">
-<br style="clear: both">
+
 
 {% include scrollybox/auto-scroll.html speed=1.5 %}
