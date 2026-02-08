@@ -52,7 +52,7 @@ PAGE SETUP & CUSTOMIZATION
   /* ===== SEMANTIC COLOR SYSTEM ===== */
   /* Backgrounds */
   --bg-page: var(--espresso-brown);
-  --bg-card: var(--warm-light);
+  --bg-card: var(--bone);
   --bg-accent: var(--golden-wash);
   --bg-code: var(--sage-pale);
   --bg-nav: var(--golden-clay-dark);

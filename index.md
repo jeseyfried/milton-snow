@@ -16,6 +16,269 @@ tags:
     - campus
 ---
 
+# A Photographic Laboratory
+{% include images/figure.html
+class="right"
+width="25%"
+alt-text="A portrait of Milton Snow"
+caption="Portrait of Milton Snow (Window Rock), by Avery Edwin Field. [Source: Maxwell Museum of Anthropology, courtesy of the Museum of Northern Arizona, MS315-106-3.](https://maxwellmuseum.unm.edu/)"
+image-path="/assets/images/milton-snow-himself.jpg"
+%}
+
+## Milton Snow (1905-1986)
+
+Milton 'Jack' Snow was born in Ensley, Alabama on April 9, 1905, to Maude May Acuff and Joseph Willis Snow. After his family moved to southern California when he was a child, Snow attended Riverside Polytechnic High School where he was introduced
+to photography. Snow had a speech impediment alongside difficulty with activities requiring fine motor control. 
+
+<br style="clear: both">
+
+{%
+include typography/aside.html
+class="left"
+width="40%"
+text="His older sister reported that Snow '...was a demon for self-discipline: shaved with a straight razor in the dark to develop control. Honestly ... (my brother) was a perfectionist.'"
+%}
+
+<br style="clear: both">
+
+Snow's dedication to honing his skills with a camera eventually led him to work for the Van Bergen-Los Angeles County Museum where he photographed archeological excavations. Over the course of twenty years, from 1937 to 1957, Snow produced thousands of images of Dine people, homes, and landscapes. 
+
+
+
+{::nomarkdown}
+</div> <!-- close main container -->
+
+<div class="section-alt">
+  <div class="container">
+{:/nomarkdown}
+
+{% include images/figure.html
+class="left"
+width="45%"
+alt-text="A portrait of Big Belly's nephew and Dannie Bia with old-style saddle."
+caption="A portrait of Big Belly's nephew and Dannie Bia with old-style saddle. Red Lake (Tolani Lakes, Leupp, AZ), 1935-1936. [Source: Maxwell Museum of Anthropology Archives 87.45.268](https://maxwellmuseum.unm.edu/)"
+image-path="/assets/images/big-belly-nephew-dannie-bia-2.jpg"
+%}
+
+**All were intended to provide proof that federal technologies were in fact working to "rehabilitate" Navajo lands and lives. Instead, Snow's photographs demonstrate the aftermath of the immense harm inflicted on Dine communities during this period.**
+
+
+
+{::nomarkdown}
+  </div>
+</div>
+{:/nomarkdown}
+
+{::nomarkdown}
+<div class="container"> <!-- reopen main container -->
+{:/nomarkdown}
+
+
+
+
+
+
+{% include images/jumbotron-gradient.html
+  image-path="/assets/images/san-francisco-peaks-for-switch-back-landscape-1.jpg"
+  fade-start="50%"
+  fade-end="100%"
+  title=""
+  text="
+
+<br>
+<br>
+<br>
+<br>
+
+### Despite their origins as instruments of assimilationist propaganda, today the images serve as a rich repository of history and culture for the Dine, who remember when sheep, goats, and horses were the bedrock of a thriving economy.
+
+<br>
+<br>
+<br>
+<br>
+
+"
+%}
+
+<br style="clear: both">
+<br style="clear: both">
+
+**Thousands of his pictures show Dine looking straight at the camera lens, standing in marked contrast to more commonly seen historic images of Indigenous people in which they clearly did not want to be photographed.**
+
+
+{% 
+assign images = 
+"/assets/images/man-baby-teec-nos-pos.jpg,
+/assets/images/everett-mccabe.jpg,
+/assets/images/mccabe-wife.jpg,
+/assets/images/child-washington-pass.jpg" | split: ','
+%}
+
+{%
+assign captions = 
+"Navajo man and his baby at Tosa Nos Pos, sic (Teec Nos Pos), AZ, 1935|
+Everett McCabe. Red Lake (Tolani Lakes, Leupp, AZ), 1935-1936|
+Everett McCabe's wife. Red Lake (Tolani Lakes, Leupp, AZ), 1935-1936|
+Navajo child (boy). Washington Pass (near NM and AZ border), 1935|
+" | split: '|'
+%}
+
+{% include images/carousel.html
+width = "80%"
+class = "center"
+images = images
+headers = headers
+captions = captions 
+%}
+
+<br style="clear: both">
+<br style="clear: both">
+
+{::nomarkdown}
+</div> <!-- close main container -->
+
+<div class="section-alt">
+  <div class="container">
+{:/nomarkdown}
+
+**In one photograph, Snow sits next to an elder, with his proximity suggesting that he knew the family of the elder and had taken their photographs several times. In the convention of early American studio portraits, Snow's photographs of individual Dine are often labeled with names and places. He was also known to give copies of the portraits to the person who sat for him.**
+
+**Today, as we gaze at these beautifully rendered portraits, we are drawn to peoples' faces, to the light reflecting in their eyes, wrinkles etched in skin, the shape of a mouth.**
+
+**We examine in detail the clothing, the buttons on a suit, the American coins fastened to a woman's velveteen collar, the schoolgirl's blouse.**
+
+
+
+{::nomarkdown}
+  </div>
+</div>
+{:/nomarkdown}
+
+{::nomarkdown}
+<div class="container"> <!-- reopen main container -->
+{:/nomarkdown}
+
+
+
+
+
+
+<br style="clear: both">
+<br style="clear: both">
+<br style="clear: both">
+<br style="clear: both">
+
+{% 
+include scrollybox/bg.html
+above-box-space="50vh"
+below-box-space="50vh"
+height="200vh"
+image-path="/assets/images/landscape-scrollybox.jpg"  
+box-content=" 
+### Civil Works Administration Project
+In 1934, Snow was hired to work on the Civil Works Administration Project at Wupatki National Monument in Arizona as the photographer and special excavation expert. He then joined the Museum of Northern Arizona in Flagstaff to establish a photographic laboratory. While working in Gallup, New Mexico with the federal Soil Conservation Service in 1935 and 1936, Snow was hired by the Navajo Service to document the supposed improvements to life in Dine Bikeyah following livestock reduction."
+%}
+
+<br style="clear: both">
+<br style="clear: both">
+<br style="clear: both">
+<br style="clear: both">
+
+# Portraits of a Community: K'é (Kinship)
+
+Milton Snow's photographs are unique for the era in which they were made because they suggest that he had positive relationships with his subjects. While we don't know much about what Snow thought of his Dine subjects, it's often remarked that he appeared to be accepted by Dine and that he took photographs in an ethical and responsible manner. 
+
+<br style="clear: both">
+<br style="clear: both">
+<br style="clear: both">
+<br style="clear: both">
+
+
+{% include images/jumbotron.html
+  height="70vh"
+  image-path="/assets/images/jumbo-view.jpg"
+  alt-text="Photograph of a tug of war game with audience cheering on. Tug-o-War, at the fourth of July celebration. Steamboat Canyon, AZ, 1935."
+  title=""
+%}
+
+
+
+
+Tug-o-War, at the fourth of July celebration, Steamboat Canyon, AZ, 1935
+Source: Maxwell Museum of Anthropology Archives, 87.45.348
+
+<br style="clear: both">
+<br style="clear: both">
+<br style="clear: both">
+<br style="clear: both">
+
+# We imagine Navajo life in the early nineteenth century and think of our ancestors, our grandparents and our parents. 
+
+<br style="clear: both">
+<br style="clear: both">
+<br style="clear: both">
+<br style="clear: both">
+
+{% 
+include scrollybox/bg.html
+above-box-space="50vh"
+below-box-space="50vh"
+height="200vh"
+image-path="/assets/images/drying-scrollybox-ah-tso-lige.jpg"  
+box-content=" 
+And we are reminded that the foundation of Dine life, despite and against John Collier's plans to remake Dine into images of American citizens, is the concept of K'é, relationships of how we treat each other with respect, love, and compassion. K'é, as the foundation of the Navajo Nation, extends to Mother Earth and Father Sky and to all beings. K'é endures and we extend kinship and remember through visual images such as Snow's."
+%}
+
+## Moments in Diné Bikéyah:
+
+# Landscape, Community, and Home
+
+For Dine people, knowledge of self and community is rooted in a distinctive sense of
+place. 
+
+Place-making is an active cultural and political activity-landscapes both hold
+and generate identities, memories, stories, histories, and knowledge systems. Dine
+Bikeyah, the land between the four sacred mountains, is the foundation of Dine life and teachings.
+
+
+{% include scrollybox/bg-multi-long.html
+  bg-id="bg1"
+  image-path="/assets/images/for-switch-back-drying-1-mccabe.jpg"
+  above-box-space="3"
+%}
+
+
+
+{% include scrollybox/bg-switch.html
+  image-path="/assets/images/for-switch-back-drying-2-raphael-begay.jpg"
+  switch-id="switch1"
+  bg-id="bg1"
+  below-box-space="800"
+%}
+
+Hung to Dry (Hunter's Point, AZ), 2017
+
+Rapheal Begay (Dine)
+
+Archival inkjet print
+
+Courtesy of the artist
+
+This image is one of many fond memories I have of my family's homestead in Tse Nashchii'(Hunter's Point, Arizona). Upon showing up late to the sheep butchering, I ventured out the backdoor of my grandmother's home and came across this scene of hanging ak'ah (sheep fat) on the clothesline. In this moment I was transported back to my youth when I was tasked with holding it up to the sun to dry. Now, I often wonder who will be there to hold the ak'ah as we grow older and as our ways of life continue to develop, change, and evolve.
+
+
+{% include scrollybox/bg-multi-long-close.html after-space="3000" %}
+
+
+
+
+
+
+
+
+
+
+
 # A Seedling Essay
 This essay demonstrates the **simplest ScrollStory approach**—perfect if you're just learning Markdown or want students to focus on writing rather than complex formatting. As you scroll through, notice the clean, uncluttered design that lets content breathe.
 
